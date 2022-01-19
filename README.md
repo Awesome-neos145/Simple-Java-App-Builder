@@ -1,6 +1,8 @@
 # Simple-Java-App-Builder
 Building java apps. Simplified.
 
+Go to releases to download.
+
 # Requirements
 Java JDK 17.0.2
 
