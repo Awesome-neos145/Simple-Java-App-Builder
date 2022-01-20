@@ -1,7 +1,7 @@
 # Simple-Java-App-Builder
 Building java apps. Simplified.
 
-Command to run your app again: java "Put your java app name here..."
+Command to run your app again: "java Put your java app name here..." With quotes and replace "Put your java app name here" with your app name.
 
 Go to releases to download.
 
