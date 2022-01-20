@@ -1,6 +1,8 @@
 # Simple-Java-App-Builder
 Building java apps. Simplified.
 
+Command to run your app again: java "Put your java app name here..."
+
 Go to releases to download.
 
 # Requirements
